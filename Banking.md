@@ -14,7 +14,7 @@
 ## Banking safety
 - Most (not all) of the the bank accounts are [federally insured], for about $250k per depositor per bank.
 - For online banking, Two-factor-authentication, is extremely recommended.
-  - If an online banking portal, doesn't support Two-factor-authentication, then don't use that portal.
+  - If an online banking portal, doesn't support [Two-factor-authentication], then don't use that portal.
   
    [FirstTech]: <https://www.firsttechfed.com>
    [Chase]: <http://chase.com/>
