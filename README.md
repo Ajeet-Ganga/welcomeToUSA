@@ -2,6 +2,7 @@
 - This is notes and pointers dump about life in USA.
 - Please open an [issue] (second tab at the top), if you have a specific question/issue.
   - You will have to sign-in to open an [issue].
+- To share a pretty URL to this document use this URL: https://tinyurl.com/welcometousa-github
 
 
 
