@@ -15,7 +15,25 @@
 - Most (not all) of the the bank accounts are [federally insured], for about $250k per depositor per bank.
 - For online banking, Two-factor-authentication, is extremely recommended.
   - If an online banking portal, doesn't support [Two-factor-authentication], then don't use that portal.
-  
+## Account types
+- There are basically three types of account  checking, saving, CD
+- CD account is equivalent fixed-deposit account of India, where you can't withdraw money without penalty or interest forfature or both.
+- If you do not care how much interest you are earning on your money sitting in bank, then checking is equivalent to saving in most of the modern banks.
+- Checking accounts either do not pay interest or pay about tenth of interest rate of saving account.
+- Saving account pay higher interest, but may not be free.
+  + Some banks would require a minimum balance (about $10,000) or monthly direct deposit (of your salary, scholorship et cetra)
+- Many banks pay handsome to open an account with them between $200 to $600.
+  - You can search and buy such coupons [online on Ebay](http://www.ebay.com/sch/i.html?_sacat=0&_nkw=chase+%24300+coupon&_frs=1)
+  - *It is perfectly legal to buy these coupons and redeem them.*
+    + I am not a lawyer but I have been told by bank that they do not care from where you got the coupon. 
+### What do I do exactly ?
+- You usually open one saving a/c and one checking a/c. Keep your majority of balance in saving account and transfer one month's worth expense to your checking a/c.
+- The general pattern is to have a saving account with direct deposit and have a checking account linked to your debit card/checks for every day activities. 
+- There is limit of 6 online transfers between accounts.
+- Keep atleast 10 check leaves handy. There are many occasions (rent and large purchases), where they accept only checks.
+- Almost all banks have heavy penalty for overdraft and bounced checks. _These charges are heavy(~ $100)._
+
+
    [FirstTech]: <https://www.firsttechfed.com>
    [Chase]: <http://chase.com/>
    [Bank of America]: <http://bankofamerica.com>
