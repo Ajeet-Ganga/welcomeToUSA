@@ -10,6 +10,7 @@
 - [Cellphones and Carriers](Cellphon-and-carriers.md)
 - [Home Internet](Home-internet.md)
 - [Banking](Banking.md)
+- TODO: Credit cards and credit rating
 - TODO: Vegeterian food
 
 
