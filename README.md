@@ -8,6 +8,7 @@
 
 ## Topics
 - [Cellphones and Carriers](Cellphon-and-carriers.md)
+- [Home Internet](Home-internet.md)
 - [Banking](Banking.md)
 - TODO: Vegeterian food
 
