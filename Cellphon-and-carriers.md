@@ -27,6 +27,7 @@
 
 ### Verizon (CDMA phones)
 
+- Unlimited talk/text/data
 - Cost per line for family plan
 	- 6 lines
         + $37/line
