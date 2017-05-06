@@ -12,6 +12,31 @@
   - The one disadvantage of this is, combined billing for family.
   - The advantage is 20% to 35% discounts.
 
+
+
+## Current best plan IMO
+
+### T-Mobile (GSM phones)
+- Cost per line $40
+- Unlimited talk/text/data
+	+ Reduced speed after 30GB
+- 4 people family plan
+- Free India (and few other countries) calling
+- *Plans keep changing. Call  1-800-T-Mobile to confirm*
+- Link: https://www.t-mobile.com/cell-phone-plans
+
+### Verizon (CDMA phones)
+
+- Cost per line for family plan
+	- 6 lines
+        + $37/line
+    - 4 line
+        + $45/line
+    - 1 line
+        + $80/line
+- Link: https://www.verizonwireless.com/plans/verizon-plan/
+
+
    [AT&T]: <https://www.att.com/wireless/>
    [Verizon]: <https://www.verizonwireless.com>
    [T-Mobile]: <https://www.t-mobile.com>
