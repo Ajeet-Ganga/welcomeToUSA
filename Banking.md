@@ -16,7 +16,8 @@
 - For online banking, Two-factor-authentication, is extremely recommended.
   - If an online banking portal, doesn't support [Two-factor-authentication], then don't use that portal.
 ## Account types
-- There are basically three types of account  checking, saving and CD.
+- There are basically three types of accounts  checking, saving and CD.
+- It is usual/expected for one to ask all the basic questions about bank and banking in the bank to a banking officer.
 - CD account is equivalent fixed-deposit account of India, where you can't withdraw money without penalty or interest forfature or both.
 - If you do not care how much interest you are earning on your money sitting in bank, then checking is equivalent to saving in most of the modern banks.
 - Checking accounts either do not pay interest or pay about tenth of interest rate of saving account.
